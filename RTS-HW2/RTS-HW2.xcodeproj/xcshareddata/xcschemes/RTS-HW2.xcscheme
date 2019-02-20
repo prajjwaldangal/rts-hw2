@@ -63,7 +63,11 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "~s"
+            argument = "s"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "/Users/prajjwaldangal/Documents/cs/spring2019/rts/hw2/file.txt"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
