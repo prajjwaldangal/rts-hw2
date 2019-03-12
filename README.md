@@ -27,4 +27,5 @@ Response time: 15.00
 Task: a
 Period: 80.00 Computation Time: 40.00 Priority 1
 Response time: 80.00
+
 Program ended with exit code: 0
